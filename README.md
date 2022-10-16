@@ -28,6 +28,7 @@
 - [Contributing](#contributing) 
 - [Credits & Third party components and their licenses](#credits--third-party-components-and-their-licenses-if-available)
 
+
 ## Introduction 
 * PojavLauncher is a Minecraft: Java Edition launcher for Android and iOS based on [Boardwalk](https://github.com/zhuowei/Boardwalk). 
 * This launcher can launch almost all available Minecraft versions ranging from rd-132211 to 1.19 snapshots (including Combat Test versions). 
